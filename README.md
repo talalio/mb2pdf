@@ -8,6 +8,12 @@ A script to convert managa chapters downloaded from mangakatana to pdf format.
 ### Usage
 
 1. Download a file from [mangakatana](https://mangakatana.com). 
+2. Install Imagemagic
+
+```sh
+$ sudo apt-get install imagemagick
+```
+
 2. Clone the script and make it executable
 
 ```sh
